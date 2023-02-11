@@ -1,0 +1,6 @@
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.pdb

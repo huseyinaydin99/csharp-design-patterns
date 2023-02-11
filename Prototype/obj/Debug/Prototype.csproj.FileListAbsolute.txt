@@ -1,0 +1,6 @@
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

@@ -1,0 +1,6 @@
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.pdb

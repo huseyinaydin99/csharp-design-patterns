@@ -1,0 +1,6 @@
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\State\bin\Debug\State.exe.config
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\State\bin\Debug\State.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\State\bin\Debug\State.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\State\obj\Debug\State.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\State\obj\Debug\State.pdb

@@ -1,0 +1,6 @@
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Bridge\obj\Debug\Bridge.pdb

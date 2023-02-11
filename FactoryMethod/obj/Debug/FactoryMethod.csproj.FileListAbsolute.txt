@@ -1,0 +1,6 @@
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

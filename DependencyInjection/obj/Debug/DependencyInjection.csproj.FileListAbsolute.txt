@@ -1,0 +1,8 @@
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\DependencyInjection\bin\Debug\Ninject.dll
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\DependencyInjection\bin\Debug\Ninject.xml

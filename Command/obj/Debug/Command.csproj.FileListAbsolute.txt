@@ -1,0 +1,6 @@
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\bin\Debug\Command.exe.config
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\bin\Debug\Command.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\bin\Debug\Command.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\obj\Debug\Command.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\obj\Debug\Command.pdb

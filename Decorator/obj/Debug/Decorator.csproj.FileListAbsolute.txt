@@ -1,0 +1,6 @@
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Decorator\obj\Debug\Decorator.pdb
